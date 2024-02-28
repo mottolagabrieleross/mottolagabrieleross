@@ -1,6 +1,6 @@
 ### Hi there 👋 ###
-Teacher at ISISS Carlo Rosselli (Castelfranco Veneto, Italy)
-Prevoius teacher at ITT Buonarroti (Trento, Italy)
+Teacher at ISISS Carlo Rosselli (Castelfranco Veneto, Italy) 
+Prevoius teacher at ITT Buonarroti (Trento, Italy) 
 uniTN
 
 <!--
