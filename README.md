@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 ###
+Teacher at ISISS Carlo Rosselli (Castelfranco Veneto, Italy)
+Prevoius teacher at ITT Buonarroti (Trento, Italy)
+uniTN
 
 <!--
 **mottolagabrieleross/mottolagabrieleross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
